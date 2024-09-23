@@ -29,7 +29,6 @@
 ###
 
 ![JG-Erbes-dev's Stats](https://github-readme-stats.vercel.app/api?username=JG-Erbes-dev&theme=monokai&show_icons=true&hide_border=true&count_private=false)
-
 ![JG-Erbes-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JG-Erbes-dev&theme=monokai&hide_border=true)
 
 ###
