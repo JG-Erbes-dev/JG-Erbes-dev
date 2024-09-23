@@ -26,7 +26,7 @@
 
 ###
 
-![JG-Erbes-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Erbes-dev&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+  ![JG-Erbes-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Erbes-dev&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 ###
 
