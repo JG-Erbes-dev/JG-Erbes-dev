@@ -24,10 +24,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
+###
+
+![JG-Erbes-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Erbes-dev&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 ###
 
 ![JG-Erbes-dev's Stats](https://github-readme-stats.vercel.app/api?username=JG-Erbes-dev&theme=monokai&show_icons=true&hide_border=true&count_private=false)
-![JG-Erbes-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Erbes-dev&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+
 
 ###
