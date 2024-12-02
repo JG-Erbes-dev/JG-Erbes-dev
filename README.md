@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Tecnologias e Ferramentas:</h4>
+<h4 align="center">Tecnologias e Ferramentas:</h4>
 
 ###
 
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
-
+<div align="center">
 ###
 
   ![JG-Erbes-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Erbes-dev&theme=monokai&show_icons=true&hide_border=true&layout=compact)
@@ -34,3 +34,4 @@
 
 
 ###
+</div>
