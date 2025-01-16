@@ -11,8 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py, django, html5, css3, numpy, pandas" height="40" alt="python logo"  />
-  <img width="12" />
+  (https://skillicons.dev/icons?i=py, django, html, css, numpy, pandas)](https://skillicons.dev)
 </div>
   
 ###
