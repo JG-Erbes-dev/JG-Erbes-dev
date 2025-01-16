@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  (https://skillicons.dev/icons?i=py, django, html, css, numpy, pandas)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py, django, html, css, numpy, pandas)](https://skillicons.dev)
 </div>
   
 ###
